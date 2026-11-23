@@ -36,7 +36,7 @@ I built this with AI help, first as a custom GPT and later ported to a Claude sk
 
 ## Feedback
 
-Open an Issue here, or comment on the LinkedIn post: [LINK]. Job seekers, recruiters and coaches are all welcome. Tell me what is wrong, dated, or missing.
+Open an Issue here. Job seekers, recruiters and coaches are all welcome. Tell me what is wrong, dated, or missing.
 
 ## Disclaimer
 
@@ -44,4 +44,4 @@ Sophia gives general guidance. It is not career, legal or employment advice, and
 
 ## License
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You may use, adapt and share it, including commercially, if you credit [YOUR NAME] and say what you changed.
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You may use, adapt and share it, including commercially, if you credit Chris and say what you changed.
