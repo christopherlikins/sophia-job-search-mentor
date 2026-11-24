@@ -1,6 +1,6 @@
 # License
 
-Copyright (c) 2026 Chris
+Copyright (c) 2026 Christopher Likins
 
 Sophia: Job Search Mentor is licensed under the Creative Commons Attribution 4.0 International License (CC BY 4.0).
 
