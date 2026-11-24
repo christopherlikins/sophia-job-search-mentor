@@ -44,4 +44,4 @@ Sophia gives general guidance. It is not career, legal or employment advice, and
 
 ## License
 
-[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You may use, adapt and share it, including commercially, if you credit Chris and say what you changed.
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). You may use, adapt and share it, including commercially, if you credit Christopher Likins and say what you changed.
